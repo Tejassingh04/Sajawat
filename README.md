@@ -1,6 +1,6 @@
 Sajawat – Static Wooden Furniture Website
 
-**Sajawat*8 is a simple, elegant website made for showcasing wooden furniture. It was created using basic **HTML** and **CSS**, focusing on a clean and user-friendly interface. The site includes a classic **marquee** for review and a touch of **CSS animation** to enhance visual appeal.
+**Sajawat** is a simple, elegant website made for showcasing wooden furniture. It was created using basic **HTML** and **CSS**, focusing on a clean and user-friendly interface. The site includes a classic **marquee** for review and a touch of **CSS animation** to enhance visual appeal.
 
 ---
 
