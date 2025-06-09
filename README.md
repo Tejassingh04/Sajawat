@@ -13,8 +13,8 @@ Technologies Used
 
 Features
 
-- 🪑 Minimal and clean design focused on wooden furniture products
-- 💬 Marquee effect for review messages
-- ✨ Simple CSS animations on headings
+- Minimal and clean design focused on wooden furniture products
+- Marquee effect for review messages
+- Simple CSS animations on headings
 
 
